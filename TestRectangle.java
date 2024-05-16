@@ -1,3 +1,4 @@
+package JavaLabTasks_Wk2;
 public class TestRectangle {
     public static void main(String[] args){
         Rectangle rect1 = new Rectangle(5.0f, 3.0f);
