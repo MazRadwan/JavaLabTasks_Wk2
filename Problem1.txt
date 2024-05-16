@@ -1,0 +1,48 @@
+1. Identify at least 5 objects/classes (other than doctor and patient) of the system. Nurses, Drugs, Equipment, Wards, OT,
+
+- Triage
+- aspirin
+- MRI Machine
+- syringe
+- Janitor
+
+2. Identify the relevant attributes and behaviours of following classes 
+a. Doctor
+b. Patient
+
+
+Class Doctor
+
+Atrributes:
+
+name
+EmployeeID
+Specialty
+contact
+
+Behaviors:
+Diagnose
+Prescrive
+Refer to specialist
+Order test
+
+
+
+Class patient
+
+Atributes:
+name
+patientId
+age
+gender
+contact
+allergies
+
+Behaviors:
+BookAppoinment
+ProvideMCP
+WaitInWaitingRoomForHours
+SeeDoctor
+FillPrescription 
+
+
